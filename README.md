@@ -1,5 +1,5 @@
 # Bloxorz solution
 
-#### Contributor: Dumitrascu Filip-Teodor
 
-## General Description
+
+#### Contributor: Dumitrascu Filip-Teodor
